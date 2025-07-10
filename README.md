@@ -58,7 +58,7 @@ You’ll get notified if:
 - CPU usage is too high (servers scale up)
 - CPU usage drops (servers scale down)
 
-📩 Make sure to check your inbox (`g.osama1553@gmail.com`) and **confirm the subscription** when AWS emails you.
+📩 Make sure to check your inbox and **confirm the subscription** when AWS emails you.
 
 ---
 
