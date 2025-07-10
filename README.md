@@ -1,6 +1,10 @@
 # Manara-Project-1
 # 🌐 Highly Available Web App on AWS
 
+<img width="652" height="439" alt="image" src="https://github.com/user-attachments/assets/e77af45c-5c07-4666-a3bd-4f7fac8843c8" />
+
+
+
 This project shows how to launch a simple web application on AWS that automatically scales and stays online even if some servers go down. It’s a real-world example of building for **availability**, **scalability**, and **monitoring**, all using AWS services.
 
 ---
