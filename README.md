@@ -88,10 +88,16 @@ This setup gives you a strong foundation for running **real web apps in producti
 
 ## 📁 Files Included
 
-| File                        | Description                                   |
-|-----------------------------|-----------------------------------------------|
+| File                        | Description                                  |
+|-----------------------------|----------------------------------------------|
 | `manara-project1.yaml` | The full setup — deploys everything automatically |
 | `README.md`                | This file you're reading now                  |
+| `Demo Video For Manara Project 1.mp4`                | Live Demo for project |
 
 ---
+## Demo Video
+https://drive.google.com/file/d/1tnN6rRJ8IpJ_pR7ISE5rVS-mRupxFTqM/view?usp=sharing
+
+
+
 
